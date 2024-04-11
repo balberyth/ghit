@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .box {
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    margin-right: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: darkcyan;
+  }
+  
+  button:active {
+    background-color: darkslateblue;
+  }
+  
