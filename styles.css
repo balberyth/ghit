@@ -3,13 +3,14 @@
     align-items: center;
     justify-content: center;
     height: 100vh;
+    background-color: bisque;
   }
   
   .box {
-    width: 100px;
-    height: 100px;
-    background-color: lightblue;
-    margin-right: 20px;
+    width: 500px;
+    height: 500px;
+    background-color: rgb(134, 230, 110);
+    margin-right: 40px;
   }
   
   button {
@@ -19,10 +20,10 @@
   }
   
   button:hover {
-    background-color: darkcyan;
+    background-color: rgb(139, 67, 0);
   }
   
   button:active {
-    background-color: darkslateblue;
+    background-color: rgb(139, 61, 119);
   }
   
